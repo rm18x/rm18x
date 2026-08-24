@@ -17,7 +17,7 @@ Hello there! 👋 I’m Reem
 
 
 🌐 Socials
-<!-- Replace YOUR-LINKEDIN-USERNAME with your LinkedIn username -->
+https://www.linkedin.com/in/reem-bakker-71219b273?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 
 ⸻
@@ -30,26 +30,4 @@ Hello there! 👋 I’m Reem
 🛠️ Tools
 
 
-⸻
 
-
-📊 GitHub Stats
-<!-- Replace YOUR-GITHUB-USERNAME with your actual GitHub username -->
-
-
-⸻
-
-
-🏆 GitHub Trophies
-
-
-⸻
-
-
-✍️ Random Dev Quote
-
-
-⸻
-
-
-👀 Profile Views
